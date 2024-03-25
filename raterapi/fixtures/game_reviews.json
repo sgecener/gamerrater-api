@@ -1,0 +1,93 @@
+[
+    {
+      "model": "raterapi.gamereview",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "game": 1,
+        "review": "I absolutely love Settlers of Catan! The strategic depth and player interaction make it a classic."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 2,
+      "fields": {
+        "user": 1,
+        "game": 2,
+        "review": "Ticket to Ride is a fantastic game for introducing new players to the hobby. Its simple mechanics and engaging gameplay make it a hit every time."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 3,
+      "fields": {
+        "user": 2,
+        "game": 1,
+        "review": "Settlers of Catan is a classic game that I enjoy playing with friends. However, the luck factor can sometimes be frustrating."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 4,
+      "fields": {
+        "user": 2,
+        "game": 3,
+        "review": "Pandemic is a cooperative masterpiece! The tension and teamwork required to beat the game make it an unforgettable experience."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 5,
+      "fields": {
+        "user": 3,
+        "game": 4,
+        "review": "Carcassonne is a delightful tile-laying game with simple rules but surprising depth. It's always a pleasure to play."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 6,
+      "fields": {
+        "user": 3,
+        "game": 5,
+        "review": "7 Wonders is a strategic marvel! The drafting mechanic ensures every game feels unique and exciting."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 7,
+      "fields": {
+        "user": 4,
+        "game": 6,
+        "review": "Codenames is a brilliant party game that always brings out the laughter and friendly competition. Highly recommended!"
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 8,
+      "fields": {
+        "user": 4,
+        "game": 7,
+        "review": "Dominion is a deck-building classic! The variety of cards and strategic depth keep me coming back for more."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 9,
+      "fields": {
+        "user": 5,
+        "game": 8,
+        "review": "Splendor is a fantastic game of engine-building and resource management. Its elegant mechanics make it a favorite in my gaming group."
+      }
+    },
+    {
+      "model": "raterapi.gamereview",
+      "pk": 10,
+      "fields": {
+        "user": 5,
+        "game": 9,
+        "review": "Azul is a beautifully designed game with simple rules and engaging gameplay. It's perfect for players of all skill levels."
+      }
+    }
+  ]
+  

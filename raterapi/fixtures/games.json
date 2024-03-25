@@ -1,0 +1,132 @@
+[
+    {
+      "model": "raterapi.game",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "title": "Settlers of Catan",
+        "designer": "Klaus Teuber",
+        "year": 1995,
+        "number_of_players": 4,
+        "play_time": 60,
+        "age": 10
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 2,
+      "fields": {
+        "user": 1,
+        "title": "Ticket to Ride",
+        "designer": "Alan R. Moon",
+        "year": 2004,
+        "number_of_players": 5,
+        "play_time": 45,
+        "age": 8
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 3,
+      "fields": {
+        "user": 1,
+        "title": "Pandemic",
+        "designer": "Matt Leacock",
+        "year": 2008,
+        "number_of_players": 4,
+        "play_time": 45,
+        "age": 10
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 4,
+      "fields": {
+        "user": 1,
+        "title": "Carcassonne",
+        "designer": "Klaus-Jürgen Wrede",
+        "year": 2000,
+        "number_of_players": 6,
+        "play_time": 30,
+        "age": 8
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 5,
+      "fields": {
+        "user": 1,
+        "title": "7 Wonders",
+        "designer": "Antoine Bauza",
+        "year": 2010,
+        "number_of_players": 7,
+        "play_time": 30,
+        "age": 10
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 6,
+      "fields": {
+        "user": 1,
+        "title": "Codenames",
+        "designer": "Vlaada Chvátil",
+        "year": 2015,
+        "number_of_players": 8,
+        "play_time": 15,
+        "age": 10
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 7,
+      "fields": {
+        "user": 1,
+        "title": "Dominion",
+        "designer": "Donald X. Vaccarino",
+        "year": 2008,
+        "number_of_players": 4,
+        "play_time": 30,
+        "age": 14
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 8,
+      "fields": {
+        "user": 1,
+        "title": "Splendor",
+        "designer": "Marc André",
+        "year": 2014,
+        "number_of_players": 4,
+        "play_time": 30,
+        "age": 10
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 9,
+      "fields": {
+        "user": 1,
+        "title": "Azul",
+        "designer": "Michael Kiesling",
+        "year": 2017,
+        "number_of_players": 4,
+        "play_time": 30,
+        "age": 8
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 10,
+      "fields": {
+        "user": 1,
+        "title": "Terraforming Mars",
+        "designer": "Jacob Fryxelius",
+        "year": 2016,
+        "number_of_players": 5,
+        "play_time": 120,
+        "age": 12
+      }
+    }
+  ]
